@@ -1,0 +1,338 @@
+body
+{
+	margin:0px;
+	padding:0px;
+}
+ h2,h1
+ {
+ 	margin:0px;
+ 	padding-top:20px;  
+ 	color:#CBA0A2; 
+ 	font-family:impact; 
+ 	text-align:center;
+ }
+       
+         #container
+            {
+			    margin:10px 50px 0px 100px;
+                width:80%;
+            	height:1500px;
+               	border:2px solid black;
+            	 
+            }
+             #header
+            {
+			    padding:0px;
+            	margin:0px;
+            	width:100%;
+            	height:100px;
+            	background:#F31026; 
+            }
+			#mainhead
+			{
+			margin:0px;
+			padding:0px;
+			width:79.5%;
+			
+			}
+			#head1
+			{
+			margin:0px;
+			padding-right:80px;
+			width:59.5%;
+			font-size:20px;
+			float:right;
+			}
+			#head2
+			{
+			margin:0px;
+			padding:0px;
+			width:20%;
+			float:left;
+			}
+			
+			#gmail
+			{
+			margin:0px;
+			padding:0px;
+			width:20.5%;
+			float:right;
+			color:#0;
+			cursor:pointer;
+			}
+			
+             #topmenu
+            {
+			    margin:0px;
+				padding:0px;
+                
+            	width:100%;
+            	height:40px;     	
+            	background:#3D0903;
+				
+				
+            }
+		    #topmenu ul
+			{
+			margin:0px;
+			list-style:none;
+			padding:5px;
+			
+			
+			
+			}
+			#topmenu ul li:hover
+			{
+				background-color:#fff;
+				font-style:italic;
+				
+			}
+			#topmenu ul li a.active
+			{
+                background-color:#fff;	
+			}
+			#topmenu ul li 
+			{
+			
+			
+			
+			display:inline;
+			margin-right:10px;
+			padding:0px;
+			cursor:pointer;
+			font-size:20px;
+			text-transform:uppercase;
+			line-height:30px;			
+			border:0.2px solid white;
+			
+			}
+			
+			#h1 
+			{
+				margin:0px;
+				width:10%;
+				color:white;
+				display:inline;
+				padding:0px;
+			
+			}
+			#h2
+			{
+				margin:0px;
+				width:10%;
+				display:inline;
+				padding:0px;
+				color:#fff;
+			}
+			#h3
+			{
+				margin:0px;
+				width:10%;
+				display:inline;
+				padding:0px;
+				
+			}
+			#h4
+			{
+				margin:0px;
+				width:10%;
+				display:inline;
+				padding:0px;
+				
+			}
+			#h5
+			{
+				margin:0px;
+				width:10%;
+				display:inline;
+				padding:0px;
+				
+			}
+			#h6
+			{
+				margin:0px;
+				width:10%;
+				display:inline;
+				padding:0px;
+				
+			}
+			#h7
+			{
+				margin:0px;
+				width:10%;
+				display:inline;
+				padding:0px;
+				
+			}
+			#h8
+			{
+				margin:0px;
+				width:10%;
+				display:inline;
+				padding:0px;
+			
+			}
+			
+			
+            #sidebar
+            {
+            	
+            	width:25%;
+            	height:1360px;
+                background:#6AFF6A;
+                float:left;				
+            }
+			#sidebar ul
+			{
+				margin:0px;
+			    
+			    padding:5px;
+			}	
+			#sidebar ul li
+			{
+				margin-left:20px;
+			    display:inherit;
+				font-size:30px;
+			    padding-top:10px;
+				color:#fff;
+			}	
+            
+             #contentbox
+            {
+			    margin:0px;
+				padding:0px;
+                
+            	width:75%;
+				float:left;
+            	background:#fff;
+            }
+			#image
+			{    
+			    margin:0px;
+				padding:0px;
+				width:100%;
+				
+				
+			}
+			#parograph1
+			{
+				margin:0px;
+				padding:0px;
+				width:100%;
+				
+			}
+			#parograph
+			{
+				margin-left:12px;
+				padding:0px;
+				width:46%;
+				float:left;
+				padding-left:10px;
+			    color:#000;
+				border:0.3px solid blue;
+			
+			}
+			#p2
+			{
+				margin-right:12px;
+				padding:0px;
+				width:46%;
+				float:right;
+				padding-left:10px;
+			    color:#000;
+				border:0.3px solid blue;
+			
+			}
+			
+			#image2
+			{    
+			    margin:12px;
+			
+				padding:0px;
+				width:100%;
+				
+				
+			}
+			
+		    #image3
+			{    
+			    margin:12px;
+				padding:5px;
+			     
+				padding:0px;
+				width:97%;
+				
+				
+			}
+			#footer
+            {
+			    margin-left:100px;
+				padding:0px;
+                width:80%;
+            	height:50px;
+               	border:1px solid black;
+				background:#931132;
+            	 
+            }
+			
+			
+			#sidebar ul
+			{
+			margin:0px;
+			list-style:none;
+			padding:px;
+			
+			
+			
+			}
+			#sidebar ul li:hover
+			{
+				background-color:#fff;
+				font-style:italic;
+				
+			}
+			#sidebar ul li a.active
+			{
+                background-color:#fff;	
+			}
+			#sidebar ul li 
+			{
+			
+			color:#000;
+			
+			display:inherit;
+			margin:0px;
+			padding:10px;
+			cursor:pointer;
+			font-size:20px;
+			text-transform:uppercase;
+			line-height:30px;
+			text-decoration:none;
+			
+			border:0.2px solid white;
+			
+			}
+			#sidebar ul li ul
+			{
+				position:absolute;
+				opacity:1;
+				text-transform:uppercase;
+				text-decoration:none;
+				visibility:hidden;
+				transition:all 0.35;
+				left:190px;
+				
+			}
+			#sidebar ul li:hover ul
+			{
+				visibility:visible;
+				opacity:1;
+			}
+			
+			
+		
+			
+			
+						
+	
+			
